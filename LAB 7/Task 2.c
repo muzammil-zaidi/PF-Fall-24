@@ -15,5 +15,6 @@ int main()
 	printf("Enter B = ");
 	scanf("%d",&n2);
 	swap(n1,n2);
+	
 	return 0;
 }
