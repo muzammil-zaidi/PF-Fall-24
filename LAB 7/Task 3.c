@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 void prime(int n){
 	int i,prime;
 	if(n>1){
