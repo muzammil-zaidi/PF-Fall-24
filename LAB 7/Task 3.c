@@ -23,6 +23,7 @@ void prime(int n){
 		printf("%d is not prime number",n);
 	}
 }
+
 int main()
 {
 	int n;
