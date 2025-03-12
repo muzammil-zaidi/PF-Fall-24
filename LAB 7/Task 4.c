@@ -29,7 +29,7 @@ int main() {
     printf("Enter second number: ");
     scanf("%d", &num2);
     printf("Enter operation (+, -, *, /): ");
-    scanf(" %c", &operation); // Space before %c to consume any leftover whitespace
+    scanf(" %c", &operation);
 
     switch (operation) {
         case '+':
