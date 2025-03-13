@@ -22,7 +22,7 @@ void divide(int num1, int num2){
 }
 
 int main(){
-    int num1, num2;
+    int num1,num2;
     char operation;
 
     printf("Enter first number: ");
