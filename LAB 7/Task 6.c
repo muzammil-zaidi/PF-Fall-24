@@ -13,8 +13,8 @@ void MaxMin(int arr[]){
         }
     }
 }
-int main()
-{
+
+int main(){
     int arr[5]={6,7,3,9,5}; 
 	MaxMin(arr);
 	printf("Maximum number = %d\n",max);
