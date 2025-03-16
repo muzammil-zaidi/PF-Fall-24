@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<string.h>
+
 void reverse(char str[]){
     int n=strlen(str);
     int i;
