@@ -1,5 +1,6 @@
 #include<stdio.h>
 #define n 35
+
 void temp(int t){
     static int count=0;
     if(t>n){
