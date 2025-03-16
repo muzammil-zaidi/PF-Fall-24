@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 int max,min,i;
 void MaxMin(int arr[]){
     max=arr[0]; 
