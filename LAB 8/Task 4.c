@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 int count(int n,int t){
     if(n==0){
         return 0;
@@ -11,7 +12,7 @@ int count(int n,int t){
     }
 }
 
-int main() {
+int main(){
     int n,t,output;
     printf("Enter number: ");
     scanf("%d",&n);
