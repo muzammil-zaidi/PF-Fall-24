@@ -5,18 +5,6 @@ Welcome to the **PF-Fall-24** repository! This repository contains all Programmi
 
 ## 📂 Repository Structure
 The repository is organized into different lab folders, each containing relevant tasks:
-
-```
-PF-Fall-24/
-│── LAB 1/
-│── LAB 2/
-│── LAB 3/
-│── LAB 4/
-│── LAB 5/
-│── LAB 6/
-│── LAB 7/
-│── ...
-```
 Each **LAB** folder contains C programs related to that week's lab tasks.
 
 ## 🛠️ Technologies Used
