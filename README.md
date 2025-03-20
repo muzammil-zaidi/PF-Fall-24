@@ -31,8 +31,9 @@ To run the programs on your local system:
 This repository is for personal academic use. If you find any issues or have suggestions, feel free to open an issue or fork the repository!
 
 ## 📬 Contact
-For any queries, reach out to me via GitHub or email.
+For any queries, reach out to me via:
+- **GitHub:** [muzammil-zaidi](https://github.com/muzammil-zaidi)
+- **Email:** muzammil.s3517@gmail.com
 
 ---
 📌 **Note:** This repository is intended for educational purposes only.
-
