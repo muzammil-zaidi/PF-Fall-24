@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<string.h>
+
 void letters(char word[]){
     int length=strlen(word),i,j;  
     char temp;
