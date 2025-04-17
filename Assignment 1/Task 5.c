@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 void horizontal(int values[],int count){
     printf("Horizontal Histogram\n");
     int i,j;
@@ -10,6 +11,7 @@ void horizontal(int values[],int count){
         printf("\n");
     }
 }
+
 void vertical(int values[],int count){
     int max=0,j;
     for(j=0;j<count;j++){
