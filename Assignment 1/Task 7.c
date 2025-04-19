@@ -13,6 +13,7 @@ void generateArray(char arr[6][5],int userID[4]){
     }
     arr[6-1][4]='A';
 }
+
 void printArray(char arr[6][5]){
     int i,j;
     for(i=0;i<6;i++){
@@ -22,6 +23,7 @@ void printArray(char arr[6][5]){
         printf("\n");
     }
 }
+
 int searchString(char arr[6][5], char *pattern){
     int patternLen=strlen(pattern),i,j,k;
     for(i=0;i<6;i++){
