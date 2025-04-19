@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 int matchstick(int n){
     if(n%5==0){
         return 0;
