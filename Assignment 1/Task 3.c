@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<string.h>
+
 void compress(const char *string,char *compressed){
     int i,j=0; 
 	for(i=0;string[i] !='\0';i++){
